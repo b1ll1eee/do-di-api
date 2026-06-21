@@ -1,0 +1,2 @@
+DROP TABLE IF EXISTS flowdos;
+DROP TYPE IF EXISTS flowdo_status;
